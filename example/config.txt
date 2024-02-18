@@ -1,0 +1,2 @@
+Prefix plugins/BFGS/example/
+Plugin BFGS inputfile parameters.txt outputfile none
